@@ -32,5 +32,6 @@ public record Timeline
     public string? Note { get; init; }
 }
 ```
+Dette kan du selvsagt endre dersom du vil ha en annen struktur.
 
 Lykke til!
