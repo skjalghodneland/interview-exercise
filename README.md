@@ -3,6 +3,7 @@
 ## Oppgave
 Oppgaven går ut på å lage et enkelt stemplesystem der man skal kunne:
 - Stemple inn
+    - Gjerne vise hvor lenge man har vært innstemplet
 - Stemple ut
 - Vise en liste av tidligere stemplinger
 
